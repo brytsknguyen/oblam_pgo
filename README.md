@@ -3,7 +3,7 @@
 
 # Course page
 
-The course materials and instructions can be found at [KTH Canvas](https://canvas.kth.se/courses/40649).
+The course materials and instructions can be found at [KTH Canvas](https://canvas.kth.se/courses/40649) .
 
 # Prerequisite
 
