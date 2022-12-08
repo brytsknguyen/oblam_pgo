@@ -380,6 +380,8 @@ int main(int argc, char **argv)
 
             if (fId - bId == span || fId - bId >= loop_kf_nbr)
                 break;
+
+            span = fId - bId;
         }
 
         // Merge all 10 keyframe pointclouds around the previous keyframe
