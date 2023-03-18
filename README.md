@@ -25,7 +25,7 @@ git clone https://github.com/brytsknguyen/oblam_pgo
 cd ..; catkin build
 ```
 # Download Data
-Please download pointcloud data [here](https://kth-my.sharepoint.com/:f:/g/personal/tmng_ug_kth_se/ErWpfrnkfQZJvrNUnw3Y-dEB0ljN-xF-FvTl8AztgkSx6A?e=ycLF8y)
+Please download pointcloud data [here](https://drive.google.com/drive/folders/1zwZQPBPeBefeB_StdvPEzp0Cp8pmhcP8?usp=share_link)
 
 Declare the path to the data in the launch file run_pgo.launch.
 
